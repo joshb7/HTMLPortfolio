@@ -6,20 +6,20 @@ body {
     text-align: center;
 }
 
-#UNL{
-    width: 250px;
-}
-
-#gitdiv{
+#infodiv{
     margin-left: 10px;
+
 }
 
 #git{
     width: 75px;
 }
 #git p{
-    border: 1px black;
-    box-shadow: black   ;
+    size:  50px;
+}
+
+#linkedin{
+    width: 75px;
 }
 
 p{
